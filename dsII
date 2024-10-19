@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Dark Souls II</title>
+    </head>
+    <body>
+            <h1>Dark Souls II</h1>
+        <p>Dark Souls II — це фентезійна екшен-рольова гра, розроблена компанією From Software 
+            і є продовженням Dark Souls . Про це було анонсовано 7 грудня 2012 року. 
+            Гру опублікував Namco Bandai Games для PlayStation 3, Xbox 360 і ПК . Dark Souls II  вийшла на PlayStation 3 і Xbox 360 
+            11 березня 2014 року в Північній Америці, 13 березня в Японії та Австралії та 14 березня в Європі. Версія для ПК була випущена 25 квітня 2014 року. 
+            У гри є продовження,  Dark Souls III , яке було випущено в 2016 році.</p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/UomaKbWHPqc" 
+            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
+        <p>Офіційний трейлер Dark Souls II</p>
+            <h2>Сюжет</h2>
+        <p>Історія Dark Souls II не пов’язана безпосередньо з Dark Souls , хоча вони відбуваються
+             в одному світі.</p>
+        <p>Дія гри розгортається в Дрангліку , колись процвітаючій землі під владою короля Вендрика , яка протягом століть була зруйнована через люту війну 
+            між людьми та велетнями , раптове зникнення короля та поширення прокляття нежиті . Як і багато інших, головний герой прибув до королівства, що розвалюється, у пошуках ліків 
+            від їхньої недуги, що калічить, Прокляття нежиті.</p>
+            <h2>Геймплей</h2>
+        <p>Подібно до попередньої назви, гравці налаштовують стать і фізичні особливості свого персонажа, окрім вибору початкового класу , який визначає статистику та спорядження, з яких 
+            гравець починає, а також початковий подарунок . З точки зору третьої особи, гравці досліджують безперервний, відкритий світ, який приблизно такого ж розміру, як оригінальна гра, але з більшою 
+            свободою в тому, як гравець може прогресувати. Подібно до сумнозвісної складності попередника, гравці стикаються з постійно ворожим середовищем із невблаганними ворогами та босами – центральною темою є смерть. 
+            Коли вороги зазнають поразки, душі накопичуються, виступаючи як формою валюти та засобом для збільшення атрибутів . Проте, на відміну від першої гри, гравець може мати голосовий чат з іншими гравцями у своєму світі.</p>
+            <h2>Dark souls II: Scholar of the Sin</h2>
+        <p>У 2014 році From Software анонсувала видання Scholar of the First Sin Dark Souls II , яке є оновленою версією гри для Xbox One, PS4 і ПК, сумісних з DirectX 11. Він також був випущений для PS3, Xbox 360 і DirectX 9-сумісних ПК, але без 
+            функцій консольних версій поточного покоління.</p>
+        <p>Dark Souls II: Scholar of the First Sin включатиме три раніше випущені 
+        пакети DLC — Crown of the Sunken King , Crown of the Old Iron King і Crown of the Ivory King — разом із додатковими функціями.</p>
+        <p>Усі версії гри включатимуть наступні функції:</p>
+            <ol>
+                <li>Додаткові NPC додані для покращеного досвіду історії.</li>
+                <li>Коригування параметрів для покращення ігрового балансу.</li>
+                <li>Розширені описи предметів.</li>
+                <li>Покращена функціональність пошуку партнерів онлайн.</li>
+            </ol>
+        <p>Версії гри для Xbox One, PS4 і DirectX 11 включатимуть такі функції (крім перерахованих вище): </p>
+            <ol>
+                <li>Додаткові оновлення графіки, звуку, продуктивності.</li>
+                <li>Збільшення максимальної кількості онлайн-гравців за одну сесію (всього 6).</li>
+            </ol>
+            <iframe width="560" height="315" 
+                src="https://www.youtube.com/embed/v0GxBZcVmHc" 
+                title="YouTube video player" frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                allowfullscreen></iframe>
+        <p>Dark Souls II - Scholar of the First Sin - трейлер оголошення</p>
+            <h2>Скрішноти з гри</h2>
+                <img src="screenshot1.jpg" width="400" height="300" alighn="left">
+                <img src="screenshot2.jpg" width="400" height="300" alighn="left">
+                <img src="screenshot3.jpg" width="400" height="300" alighn="left">
+                <img src="screenshot4.jpg" width="400" height="300" alighn="left">
+                <img src="screenshot5.jpg" width="400" height="300" alighn="left">
+                <img src="screenshot6.jpg" width="400" height="300" alighn="left">
+            <h2>Системні вимоги</h2>
+            <table border="1" cellspacing="0" cellpadding="5">
+                <thead>
+                  <tr>
+                    <th>Оригінал</th>
+                    <th>Перевидання</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Windows Vista SP2, Windows 7 SP1, Windows 8</td>
+                    <td>Windows 7 SP1 64bit, Windows 8.1 64bit</td>
+                  </tr>
+                  <tr>
+                    <td>Intel Core 2 Duo E8500 3.17 GHz, ATI Phenom II X2 555 3.2 GHz</td>
+                    <td>Intel Core i3-2100 3.1 GHz, AMD A8 3870 3.6 GHz</td>
+                  </tr>
+                  <tr>
+                    <td>2 GB ОЗУ</td>
+                    <td>4 GB ОЗУ</td>
+                  </tr>
+                  <tr>
+                    <td>GeForce 9600 GT, ATI Radeon HD 5870</td>
+                    <td>GeForce GTX 465, ATI Radeon HD 6870</td>
+                  </tr>
+                  <tr>
+                    <td>14 GB</td>
+                    <td>18 GB</td>
+                  </tr>
+                  <tr>
+                    <td>Версія 9.0c</td>
+                    <td>Версія 11</td>
+                  </tr>
+                </tbody>
+              </table>
+    </body>
+</html>
