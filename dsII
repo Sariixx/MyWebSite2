@@ -4,17 +4,17 @@
         <title>Dark Souls II</title>
     </head>
     <body>
-            <h1>Dark Souls II</h1>
+      <h1>Dark Souls II</h1>
         <p>Dark Souls II — це фентезійна екшен-рольова гра, розроблена компанією From Software 
-            і є продовженням Dark Souls . Про це було анонсовано 7 грудня 2012 року. 
-            Гру опублікував Namco Bandai Games для PlayStation 3, Xbox 360 і ПК . Dark Souls II  вийшла на PlayStation 3 і Xbox 360 
-            11 березня 2014 року в Північній Америці, 13 березня в Японії та Австралії та 14 березня в Європі. Версія для ПК була випущена 25 квітня 2014 року. 
-            У гри є продовження,  Dark Souls III , яке було випущено в 2016 році.</p>
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/UomaKbWHPqc" 
-            frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-            allowfullscreen></iframe>
-        <p>Офіційний трейлер Dark Souls II</p>
-            <h2>Сюжет</h2>
+        і є продовженням Dark Souls . Про це було анонсовано 7 грудня 2012 року. 
+        Гру опублікував Namco Bandai Games для PlayStation 3, Xbox 360 і ПК . Dark Souls II  вийшла на PlayStation 3 і Xbox 360 
+        11 березня 2014 року в Північній Америці, 13 березня в Японії та Австралії та 14 березня в Європі. Версія для ПК була випущена 25 квітня 2014 року. 
+        У гри є продовження,  Dark Souls III , яке було випущено в 2016 році.</p>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/UomaKbWHPqc" 
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen></iframe>
+          <p>Офіційний трейлер Dark Souls II</p>
+      <h2>Сюжет</h2>
         <p>Історія Dark Souls II не пов’язана безпосередньо з Dark Souls , хоча вони відбуваються
              в одному світі.</p>
         <p>Дія гри розгортається в Дрангліку , колись процвітаючій землі під владою короля Вендрика , яка протягом століть була зруйнована через люту війну 
@@ -48,47 +48,50 @@
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
                 allowfullscreen></iframe>
         <p>Dark Souls II - Scholar of the First Sin - трейлер оголошення</p>
-            <h2>Скрішноти з гри</h2>
-                <img src="screenshot1.jpg" width="400" height="300" alighn="left">
-                <img src="screenshot2.jpg" width="400" height="300" alighn="left">
-                <img src="screenshot3.jpg" width="400" height="300" alighn="left">
-                <img src="screenshot4.jpg" width="400" height="300" alighn="left">
-                <img src="screenshot5.jpg" width="400" height="300" alighn="left">
-                <img src="screenshot6.jpg" width="400" height="300" alighn="left">
-            <h2>Системні вимоги</h2>
-            <table border="1" cellspacing="0" cellpadding="5">
-                <thead>
-                  <tr>
-                    <th>Оригінал</th>
-                    <th>Перевидання</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>Windows Vista SP2, Windows 7 SP1, Windows 8</td>
-                    <td>Windows 7 SP1 64bit, Windows 8.1 64bit</td>
-                  </tr>
-                  <tr>
-                    <td>Intel Core 2 Duo E8500 3.17 GHz, ATI Phenom II X2 555 3.2 GHz</td>
-                    <td>Intel Core i3-2100 3.1 GHz, AMD A8 3870 3.6 GHz</td>
-                  </tr>
-                  <tr>
-                    <td>2 GB ОЗУ</td>
-                    <td>4 GB ОЗУ</td>
-                  </tr>
-                  <tr>
-                    <td>GeForce 9600 GT, ATI Radeon HD 5870</td>
-                    <td>GeForce GTX 465, ATI Radeon HD 6870</td>
-                  </tr>
-                  <tr>
-                    <td>14 GB</td>
-                    <td>18 GB</td>
-                  </tr>
-                  <tr>
-                    <td>Версія 9.0c</td>
-                    <td>Версія 11</td>
-                  </tr>
-                </tbody>
-              </table>
-    </body>
+      <h2>Системні вимоги</h2>
+        <table border="1" cellspacing="0" cellpadding="5">
+          <tr>
+            <th>Системні вимоги</th>
+            <th>Оригінал</th>
+            <th>Перевидання</th>
+          </tr>
+          <tr>
+            <td>OC:</td>
+            <td>Windows Vista SP2, Windows 7 SP1, Windows 8</td>
+            <td>Windows 7 SP1 64bit, Windows 8.1 64bit</td>
+          </tr>
+          <tr>
+            <td>Процесор:</td>
+            <td>Intel Core 2 Duo E8500 3.17 GHz, ATI Phenom II X2 555 3.2 GHz</td>
+            <td>Intel Core i3-2100 3.1 GHz, AMD A8 3870 3.6 GHz</td>
+          </tr>
+          <tr>
+            <td>Оперативна память:</td>
+            <td>2 GB ОЗУ</td>
+            <td>4 GB ОЗУ</td>
+          </tr>
+          <tr>
+            <td>Видеокарта:</td>
+            <td>GeForce 9600 GT, ATI Radeon HD 5870</td>
+            <td>GeForce GTX 465, ATI Radeon HD 6870</td>
+          </tr>
+          <tr>
+            <td>Место на диске:</td>
+            <td>14 GB</td>
+            <td>18 GB</td>
+          </tr>
+          <tr>
+            <td>DirectX:</td>
+            <td>Версия 9.0c</td>
+            <td>Версия 11</td>
+          </tr>
+        </table>
+      <h2>Скрішноти з гри</h2>
+        <img src="screenshot1.jpg" width="400" height="300" alighn="left">
+        <img src="screenshot2.jpg" width="400" height="300" alighn="left">
+        <img src="screenshot3.jpg" width="400" height="300" alighn="left">
+        <img src="screenshot4.jpg" width="400" height="300" alighn="left">
+        <img src="screenshot5.jpg" width="400" height="300" alighn="left">
+        <img src="screenshot6.jpg" width="400" height="300" alighn="left">
+  </body>
 </html>
