@@ -1,0 +1,42 @@
+.nav a {
+    text-decoration: none;
+    padding: 10px 15px; 
+    color: red; 
+    font-weight: bold; 
+    font-size: 16px;
+}
+
+.nav {
+    display: flex;
+    justify-content: center; 
+    gap: 20px;
+}
+
+.title {
+    font-family: 'Times New Roman', serif; 
+    font-size: 36px; 
+    text-transform: uppercase;
+}
+
+.table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table th, .table td {
+    border: 1px solid #838383;
+    padding: 8px;
+    text-align: center;
+}
+
+.table th {
+    background-color: #a6a5a5;
+    font-weight: bold;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 10px;
+    color: white;
+    background-color: black;
+}
